@@ -22,8 +22,7 @@ The project uses various **SQL operations** such as:
 ## Files in This Repository
 
 1. **car_sales_project.sql**: Contains all the SQL queries used for analyzing the car sales data.
-2. 
-3. **car_sales_project.pptx**: A PowerPoint presentation that provides a visual summary of the analysis, including steps to export data from Excel to SQL, and examples of queries performed.
+2. **car_sales_project.pptx**: A PowerPoint presentation that provides a visual summary of the analysis, including steps to export data from Excel to SQL, and examples of queries performed.
 
 ## Key SQL Operations
 
@@ -33,13 +32,24 @@ The project uses various **SQL operations** such as:
 - **Aggregate Functions**: Perform calculations like sum, average, and count to gain insights into the data.
 
 ## Table Creation
+
 ![MY SQl Table creation](https://github.com/user-attachments/assets/ccab7ce5-5a87-499c-b4b8-53faa56610ad)
 
 
 ## Screenshot of MYSQL queries
+
 ![my sql queries 1](https://github.com/user-attachments/assets/7f6d2d81-0ada-4526-bc3c-eb4a7832da0c)
 
 ![my sql queries 2](https://github.com/user-attachments/assets/313b23de-d79f-4505-b0fe-330545766a7b)
 
 ![my sql queries 3](https://github.com/user-attachments/assets/60cd5b78-f21a-42f5-8224-3ec3f113286c)
+
+## How to Run the SQL Queries
+
+**Import the car sales data into MySQL.
+**Execute the queries from car_sales_project.sql in MySQL Workbench or any other MySQL client.
+
+## Presentation Summary
+
+**The PowerPoint presentation provides an overview of the SQL operations and explains the key insights derived from the analysis. It also covers step-by-step instructions on exporting data from Excel to MySQL for database creation.
 
