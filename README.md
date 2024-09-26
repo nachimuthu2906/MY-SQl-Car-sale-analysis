@@ -22,7 +22,9 @@ The project uses various **SQL operations** such as:
 ## Files in This Repository
 
 1. **car_sales_project.sql**: Contains all the SQL queries used for analyzing the car sales data.
+   https://github.com/nachimuthu2906/MY-SQl-Car-sale-analysis/blob/main/car%20sales%20project.sql
 2. **car_sales_project.pptx**: A PowerPoint presentation that provides a visual summary of the analysis, including steps to export data from Excel to SQL, and examples of queries performed.
+   https://github.com/nachimuthu2906/MY-SQl-Car-sale-analysis/blob/main/car%20saales%20project.pptx
 
 ## Key SQL Operations
 
